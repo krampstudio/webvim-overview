@@ -1,13 +1,16 @@
 # webvim-overview
 A slide deck presentation about WebVim
 
+https://docs.google.com/presentation/d/1MvD6taCxBeGoTVVXvXgBcvF8YL3WtTlW9ytZ6JBLdBc/edit?usp=sharing
+
 ## Vi-m
 
 ### The good
 
- - 
- - 
- -
+ - lightweight, cross paltform
+ - keyboard based
+ - huge ecosystem
+ - ergonomics (does the job really quickly)
 
 ### The bad
 
