@@ -1,5 +1,6 @@
 # webvim-overview
-A slide deck presentation about WebVim
+
+A slide deck presentation about [WebVim](http://krampstudio.com/webvim)
 
 ## Myself
 
