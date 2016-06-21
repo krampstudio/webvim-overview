@@ -2,8 +2,11 @@
 A slide deck presentation about WebVim
 
 https://docs.google.com/presentation/d/1MvD6taCxBeGoTVVXvXgBcvF8YL3WtTlW9ytZ6JBLdBc/edit?usp=sharing
+## Myself
 
-## Vi-m
+> @kramp
+
+## (Web)Vim, why ?
 
 Why using Vim today ?
 When we have :
@@ -16,6 +19,10 @@ When we have :
  - [Visual Studio Code](http://code.visualstudio.com)
  - [WebStorm](https://www.jetbrains.com/webstorm/specials/webstorm/webstorm.html)
  - [Emacs](https://www.gnu.org/software/emacs/)
+
+But
+
+ - Vim
 
 ### The good
 
