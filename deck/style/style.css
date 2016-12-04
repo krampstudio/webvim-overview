@@ -56,18 +56,27 @@
 
 body {
     font-family: 'PT_Serif';
-    color: #222;
+    color: #6ebef3;
 }
 h1, h2, h3 {
     font-family: 'Galindo';
     font-weight: normal;
-    color: #2C5A78;
+    color: #6ebef3;
 }
 a {
-    color: #2C5A78;
+    color: #6ebef3;
 }
 a:hover {
     text-decoration: none;
+}
+.remark-container {
+    background-color: #666;
+}
+.remark-slide-content {
+    background-color: #333;
+}
+.remark-slide-number {
+    color: #888;
 }
 .remark-code, .remark-inline-code {
     font-family: Consolas,Monaco,"Andale Mono",monospace;
@@ -91,9 +100,9 @@ blockquote:before {
     left: .5rem;
 }
 img {
-    margin: 0 25px 10px 0;
-    padding: 3px;
-    max-width: 95%;
-    border: none;
     box-shadow: inherit;
+    max-width: 85%;
+}
+.remark-slide-content h1 {
+    font-size: 70px;
 }
