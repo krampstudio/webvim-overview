@@ -77,13 +77,19 @@ class: center, middle
 
 class: center, middle
 
+### Free software
+
+---
+
+class: center, middle
+
 # But
 
 ---
 
 class: center, middle
 
-![learning curve](img/learning_curves.jpg)
+![learning curve](img/learning_curves.png)
 
 ---
 
@@ -99,13 +105,13 @@ class: center, middle
 
 ---
 
-class: middle
+class: center, middle
 
-### - Install
-### - Plugins
-### - Configuration
-### - Documentation
-### - Tests
+### 💻 Install
+### 🔌 Plugins
+### 🗞 Configuration
+### 📃 Documentation
+### 🎰 Tests
 
 
 ---
@@ -159,9 +165,17 @@ class: center, middle
 
 ### A lot more
 
-Eslint, JsHint, Tern, Spell checking, editorconfig, HTML, CSS, SASS,
-JSON, Markdown, hardcore mode, Smart comments, Smart indent,
-Abbreviations, auto align, grep, search and replace, ...
+Eslint, JsHint, `.tern-project`, Spell checking, `.editorconfig`,
+
+ES2015+, HTML, CSS, SASS, JSON, Handlebars, Markdown,
+
+_hardcore mode_, Smart comments, Smart indent, Smart quotes,
+
+abbreviations, auto align, grep, search and replace, run commands,
+
+beautify, git gutter, refactoring, dark/light themes,
+
+and everything vim provides
 
 ---
 
@@ -178,10 +192,11 @@ class: center, middle
 ## [github.com/krampstudio](http://github.com/krampstudio)
 
     </textarea>
-    <script src="js/remark-latest.min.js">
-    </script>
+    <script src="js/remark-latest.min.js"></script>
     <script>
-      var slideshow = remark.create();
+        var slideshow = remark.create({
+            ratio: '16:9'
+        });
     </script>
   </body>
 </html>
